@@ -1,7 +1,8 @@
-<h2 align="left">Hai 👋! I am Salman Mustapa and I am a beginner network technician and web and android application developer from the Gorontalo province, Indonesia.</h2>
+<img align="right" width="150px" src="https://media.licdn.com/dms/image/D4E03AQFWT5xNlc5Hdw/profile-displayphoto-shrink_800_800/0/1690167300695?e=1697673600&v=beta&t=8jqvhy6tFk3EbkJ6AWKWypdhvwcJx4zFsSeSZTQt1l4"  />
+
+<h2 align="left">Hai 👋! I am Salman Mustapa and I am a beginner network technician and  android web application developer from the Gorontalo province, Indonesia.</h2>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abangucup&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=abangucup&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -10,6 +11,7 @@
 
 ###
 
+<h2>Tools And Language<h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
@@ -30,6 +32,7 @@
 
 ###
 
+<h2>Social Media</h2>
 <div align="left">
   <a href="https://www.instagram.com/salman_mustapa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -47,24 +50,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4E03AQFWT5xNlc5Hdw/profile-displayphoto-shrink_800_800/0/1690167300695?e=1697673600&v=beta&t=8jqvhy6tFk3EbkJ6AWKWypdhvwcJx4zFsSeSZTQt1l4"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abangucup/abangucup/output/snake.svg" alt="Snake animation" />
-
-###
-
+<h2>Visit<h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/abangucup/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=abangucup" alt="Layout with last medium posts"  />
-</div>
-
-###
