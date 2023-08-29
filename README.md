@@ -1,9 +1,9 @@
-<img align="right" width="150px" src="https://media.licdn.com/dms/image/D4E03AQFWT5xNlc5Hdw/profile-displayphoto-shrink_800_800/0/1690167300695?e=1697673600&v=beta&t=8jqvhy6tFk3EbkJ6AWKWypdhvwcJx4zFsSeSZTQt1l4"  />
 
-<h2 align="left">Hai 👋! I am Salman Mustapa and I am a beginner network technician and  android web application developer from the Gorontalo province, Indonesia.</h2>
+<h2 align="left">Hai 👋! I am Salman Mustapa and I am a beginner network technician and beginner programmer android web from the Gorontalo province, Indonesia.</h2>
 
 ###
-<div align="center">
+<img align="left" width="150px" src="https://media.licdn.com/dms/image/D4E03AQFWT5xNlc5Hdw/profile-displayphoto-shrink_800_800/0/1690167300695?e=1697673600&v=beta&t=8jqvhy6tFk3EbkJ6AWKWypdhvwcJx4zFsSeSZTQt1l4"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abangucup&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abangucup&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
